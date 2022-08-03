@@ -20,4 +20,4 @@ plugins {
 }
 
 configure<GradleIssueExtension> { }
-// gradleIssue { } // not working
+gradleIssue { } // via workaround
